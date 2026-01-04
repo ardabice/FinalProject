@@ -36,6 +36,6 @@ All experiments are fully reproducible. Fixed allocation sequences (traces) are 
 ## 👤 Author
 Arda Bice  
 Istanbul Aydin University  
-Operating Systems
-EOF
+Operating Systems and Hardware
+
 
